@@ -1,3 +1,7 @@
+> **Warning :warning:**
+>
+> This repository is deprecated. Please use **[strapi/strapi-starter-gatsby-blog](https://github.com/strapi/strapi-starter-gatsby-blog)** instead.
+
 # Strapi Starter Gatsby Blog
 
 Gatsby starter for creating a blog with Strapi.
@@ -29,7 +33,7 @@ Once you have created these accounts you can deploy your instance by clicking on
 
 Once you have created your account, add the url of your Heroku instance  (without the trailing slash) as a parameter to the following url.
 
-https://app.netlify.com/start/deploy?repository=https://github.com/strapi/strapi-starter-gatsby-blog#API_URL=<your-strapi-app.herokuapp.com>
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/strapi/strapi-starter-gatsby-blog)
 
 - Visit this url to deploy your application
 
